@@ -1,0 +1,31 @@
+.exam-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.timer {
+  font-size: 2rem;
+  margin: 20px 0;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  margin: 10px;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+  border: none;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+p {
+  font-size: 1.2rem;
+  color: #333;
+}
